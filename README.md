@@ -4,6 +4,7 @@ Este es el repositorio del "Taller de Introducción a los Métodos Computacional
 En este repositorio se podrá encontrar las sintaxis utilizadas por sesión asi como el material de apoyo que se sugirió para el desarrollo de cada sesión.
 
 Syllabus del taller lo puedes encontrar [aquí](https://docs.google.com/document/d/19jxMQZYRKwYUSSYIJjKcCVQF38wZxcUEf51dL84_LsQ/edit?usp=sharing)
+El material de apoyo lo pueden encontrar [aquí](https://drive.google.com/drive/folders/1aXv8hF8SV4vI8Aoug5h5RHdx2sCYEdOi?usp=share_link)
 
 ## Sesiones
 | Sesiones | Dia |
@@ -13,9 +14,4 @@ Syllabus del taller lo puedes encontrar [aquí](https://docs.google.com/document
 |Sesión 3: Técnicas de recojo de datos en la web|21 de septiembre del 2024 (3 horas)|
 |Sesión 4: Análisis de los datos recogidos|22 de septiembre del 2024 (3 horas)|
 |Sesión 5: Aplicación de lo aprendido a los propios proyectos de los/as participantes|28 de septiembre del 2024 (2 horas)|
-
-
-
-
-
 
