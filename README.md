@@ -8,9 +8,11 @@ Syllabus del taller lo puedes encontrar [aquí](https://docs.google.com/document
 ## Sesiones
 | Sesiones | Dia |
 | --- | --- |
-| Sesión 1: Introducción y ejemplos de investigaciones sociales con métodos computacionales.| 14 de septiembre del 2024 (2 horas) |
-| Sesión 2: Pregunta, Teoría y Metodología: ¿Cómo se vinculan? (análisis de casos) | 15 de septiembre del 2024 (2 horas) |
+|Sesión 1: Introducción y ejemplos de investigaciones sociales con métodos computacionales.| 14 de septiembre del 2024 (2 horas) |
+|Sesión 2: Pregunta, Teoría y Metodología: ¿Cómo se vinculan? (análisis de casos) | 15 de septiembre del 2024 (2 horas) |
 |Sesión 3: Técnicas de recojo de datos en la web|21 de septiembre del 2024 (3 horas)|
+|Sesión 4: Análisis de los datos recogidos|22 de septiembre del 2024 (3 horas)|
+|Sesión 5: Aplicación de lo aprendido a los propios proyectos de los/as participantes|28 de septiembre del 2024 (2 horas)|
 
 
 
